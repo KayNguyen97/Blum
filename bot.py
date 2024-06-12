@@ -200,8 +200,9 @@ class BlumTod:
         banner = f"""
     {hijau}AUTO CLAIM FOR {putih}BLUM {hijau}/ {biru}@BlumCryptoBot
     
-    {hijau}By : {putih}t.me/AkasakaID
-    {putih}Github : {hijau}@AkasakaID
+    {hijau}By : {putih}t.me/Kay_Nguyenn
+    {putih}Github : {hijau}@KayNguyen97
+    {putih}Group Telegram : {hijau}t.me/bountyfarmairdrop
     
     {hijau}Message : {putih}Dont forget to 'git pull' maybe i update the bot !
         """
